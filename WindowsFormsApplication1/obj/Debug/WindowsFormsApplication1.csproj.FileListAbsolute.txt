@@ -1,0 +1,11 @@
+E:\GenericMapping\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\GenericMapping\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\GenericMapping\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\GenericMapping\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\GenericMapping\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\GenericMapping\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\GenericMapping\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\GenericMapping\WindowsFormsApplication1\bin\Debug\GenericMapping.dll
+E:\GenericMapping\WindowsFormsApplication1\bin\Debug\GenericMapping.pdb
+E:\GenericMapping\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\GenericMapping\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

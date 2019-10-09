@@ -1,0 +1,9 @@
+E:\GenericMapping\Test\obj\Debug\GenericMapping.Test.csprojResolveAssemblyReference.cache
+E:\GenericMapping\Test\bin\Debug\Test.dll
+E:\GenericMapping\Test\bin\Debug\Test.pdb
+E:\GenericMapping\Test\bin\Debug\GenericMapping.dll
+E:\GenericMapping\Test\bin\Debug\nunit.framework.dll
+E:\GenericMapping\Test\bin\Debug\GenericMapping.pdb
+E:\GenericMapping\Test\bin\Debug\nunit.framework.xml
+E:\GenericMapping\Test\obj\Debug\Test.dll
+E:\GenericMapping\Test\obj\Debug\Test.pdb

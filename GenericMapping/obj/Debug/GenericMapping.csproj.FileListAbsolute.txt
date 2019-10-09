@@ -1,0 +1,5 @@
+E:\GenericMapping\GenericMapping\bin\Debug\GenericMapping.dll
+E:\GenericMapping\GenericMapping\bin\Debug\GenericMapping.pdb
+E:\GenericMapping\GenericMapping\obj\Debug\GenericMapping.dll
+E:\GenericMapping\GenericMapping\obj\Debug\GenericMapping.pdb
+E:\GenericMapping\GenericMapping\obj\Debug\GenericMapping.csprojResolveAssemblyReference.cache
